@@ -1,0 +1,12 @@
+//  How Contexts actually work
+// Very important topic in javascript
+
+
+ Global Contexts
+
+ Execution Contexts ------(i. variablle object
+                           ii.Scope chain
+                           iii.this )
+
+
+                           

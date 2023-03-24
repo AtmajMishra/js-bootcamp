@@ -1,0 +1,12 @@
+
+const arr=[1,2,3,4,5,"Atmaj"]
+
+for(let i=0; i<arr.length; i++)
+console.log(arr[i])
+
+let m=2;
+console.log(typeof(m));
+
+//   Template Literals in strings
+
+
